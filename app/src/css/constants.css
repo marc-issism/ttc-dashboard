@@ -1,0 +1,49 @@
+:root {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+  --header-font-size: 24px;
+  --content-font-size: 22px;
+  --round-border-radius-xs: 5px;
+  --round-border-radius: 10px;
+  --round-border-radius-md: 18px;
+  --gray: #595959;
+  --grey: var(--gray);
+  --white: rgb(240, 240, 240);
+
+  --background-color: #fff8e7ff;
+  --background-accent-color: #ffeec9ff;
+
+  --color-local: #da261d;
+  --color-express: #00923f;
+  --color-blue-night: #024182;
+  --color-line-1: #f8c300;
+  --color-line-2: #00923f;
+  --color-line-4: #a21a68;
+  --color-line-5: #eb8738;
+  --color-line-6: #969594;
+
+  --color-local-pastel: #eb6e68;
+  --color-express-pastel: #12ff78;
+  --color-blue-night-pastel: #0d82fb;
+  --color-line-1-pastel: #eb6e68;
+  --color-line-2-pastel: #eb6e68;
+  --color-line-4-pastel: #eb6e68;
+  --color-line-5-pastel: #eb6e68;
+  --color-line-6-pastel: #eb6e68;
+
+  background-color: #fcefe2;
+
+}
+
+.color-local-pastel {
+  color: var(--color-local-pastel);
+}
+.color-express-pastel {
+  color: var(--color-express-pastel);
+}
+.color-blue-night-pastel {
+  color: var(--color-blue-night-pastel);
+}

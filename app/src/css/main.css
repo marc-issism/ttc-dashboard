@@ -1,0 +1,43 @@
+@import './constants.css';
+@import './components/prediction.css';
+
+:root {
+  padding: 16px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.container__row {
+  display: flex;
+  flex-direction: row;
+}
+
+.container__col {
+  display: flex;
+  flex-direction: column;
+}
+
+.icon-16 {
+  height: 16px;
+  width: 16px;
+}
+
+.icon-32 {
+  height: 32px;
+  width: 32px;
+}
+
+.container-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.prediction__container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: center;
+  margin: 32px;
+}

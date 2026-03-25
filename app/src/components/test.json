@@ -1,0 +1,31 @@
+{
+
+  "a" : [
+
+    {
+      "8587": [
+        {
+          "routeId": "68",
+          "routeName": "68 - Warden to Warden Station",
+          "arrival": "5 minutes @ 16:43",
+          "direction": "South"
+        },
+        {
+          "routeId": "68",
+          "routeName": "68 - Warden to Warden Station",
+          "arrival": "10 minutes @ 16:53",
+          "direction": "South"
+        },
+        {
+          "routeId": "968",
+          "routeName": "968 - Warden Express to Warden Station",
+          "arrival": "3 minutes @ 16:40",
+          "direction": "South"
+        }
+      ]
+    }
+
+
+  ]
+
+}
